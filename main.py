@@ -1,0 +1,2 @@
+i = "trpl"
+print(i)
